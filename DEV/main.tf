@@ -22,7 +22,7 @@ module "my-vm" {
     vm_name = "DEV-VM"
     user_name = "AzureAdmin"
     user_pwd = "AzureAdmin#123"
-    vm_enviornment = "Dev Env"
+    vm_enviornment = "Dev Env1"
 
   
 }
