@@ -20,9 +20,9 @@ module "my-vm" {
     rsg_location = "west-europe"
     nic_name = "DEV-nic"
     vm_name = "DEV-VM"
-    user_name = "AzureAdmin1"
+    user_name = "AzureAdmin123"
     user_pwd = "AzureAdmin#123"
-    vm_enviornment = "Dev Env1"
+    vm_enviornment = "Dev Env24"
 
   
 }
